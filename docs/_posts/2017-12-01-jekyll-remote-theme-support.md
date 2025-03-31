@@ -6,7 +6,7 @@ tags:
   - Jekyll
 ---
 
-Basically Basic can now be installed remotely for use on GitHub Pages!
+Fanciful Hearts can now be installed remotely for use on GitHub Pages!
 
 The days of having to forking this repo and manually manage updates are over. Simply install the [**jekyll-remote-theme**](https://github.com/benbalter/jekyll-remote-theme) plugin by doing the following and away you go.
 
@@ -21,7 +21,7 @@ The days of having to forking this repo and manually manage updates are over. Si
 
 3. Run `bundle update` and verify that all gems install properly.
 
-4. Add `remote_theme: "mmistakes/jekyll-theme-basically-basic"` to your `_config.yml` file.
+4. Add `remote_theme: "vicariousdrama/fancifulhearts"` to your `_config.yml` file.
 
 5. Then add [`jekyll-remote-theme`](https://github.com/benbalter/jekyll-remote-theme) to the `plugins` (previously gems) array in your `_config.yml` file like so:
 

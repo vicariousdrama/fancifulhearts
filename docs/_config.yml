@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "vicariousdrama/fancifulhearts"
 
 # Site Settings
 lang: en-US
-title: Basically Basic
+title: Fanciful Hearts
 email: dugan.nash@mailinator.com
 description: "Your new default Jekyll theme"
-baseurl: "/jekyll-theme-basically-basic"
+baseurl: "/fancifulhearts"
 url: "https://mmistakes.github.io"
 repository: "mmistakes/minimal-mistakes"
 author:
@@ -21,7 +21,7 @@ author:
   picture: /assets/images/johndoe.png
 twitter_username: Towlette_Pettetucci
 github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
+logo: /assets/icons/fancifulhearts-logo-light.svg
 google_analytics: UA-2011187-6
 disqus:
   shortname:

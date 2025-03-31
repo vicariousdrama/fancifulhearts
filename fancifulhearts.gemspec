@@ -1,11 +1,11 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "jekyll-theme-fanciful-hearts"
-  spec.version                 = "1.4.5"
-  spec.authors                 = ["Michael Rose", "Victor Ousman"]
-
-  spec.summary                 = %q{Your new Jekyll default theme.}
+  spec.name                    = "fancifulhearts"
+  spec.version                 = "1.0.0"
+  spec.authors                 = ["Victor Ousman"]
+  spec.email                   = "vic@example.com"
+  spec.summary                 = "Jekyll theme for Fanciful Hearts website."
   spec.homepage                = "https://github.com/vicariousdrama/fancifulhearts"
   spec.license                 = "MIT"
 
