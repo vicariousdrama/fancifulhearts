@@ -2,10 +2,10 @@
 ---
 
 /*!
- * Basically Basic Jekyll Theme 1.4.5
- * Copyright 2017-2018 Michael Rose - mademistakes | @mmistakes
+ * Fanciful Hearts Jekyll Theme 1.0.0
+ * Copyright 2025 vicariousdrama
  * Free for personal and commercial use under the MIT license
- * https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/LICENSE
+ * https://github.com/vicariousdrama/fancifulhearts/blob/master/LICENSE
 */
 
 var menuItems = document.querySelectorAll('#sidebar li');

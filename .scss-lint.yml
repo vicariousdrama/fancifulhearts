@@ -2,8 +2,8 @@
 
 scss_files: "_sass/**/*.scss"
 exclude:
-  - "_sass/basically-basic/_reset.scss"
-  - "_sass/basically-basic/vendor/**"
+  - "_sass/fancifulhearts/_reset.scss"
+  - "_sass/fancifulhearts/vendor/**"
 plugin_directories: ['.scss-linters']
 
 # List of gem names to load custom linters from (make sure they are already
